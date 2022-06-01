@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apss", "apss\apss.csproj", "{48F0B06E-58EE-40E1-8FEE-E3F2C1E37CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F0B06E-58EE-40E1-8FEE-E3F2C1E37CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F0B06E-58EE-40E1-8FEE-E3F2C1E37CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F0B06E-58EE-40E1-8FEE-E3F2C1E37CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F0B06E-58EE-40E1-8FEE-E3F2C1E37CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB60B84D-12FE-4C6B-A902-09AAC01EA578}
+	EndGlobalSection
+EndGlobal
